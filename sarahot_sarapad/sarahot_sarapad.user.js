@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         여신스킨+여신장판
+// @name         여신스킨+여신장판_크롬
 // @namespace    sarahot_sarapad
 // @version      1.0.0
-// @description  여신님+여신님 장판
+// @description  여신님+여신님 장판인데 장판은 
 // @author       shm
 // @license      MIT
 // @icon         https://majaksin.github.io/sarahot_sarapad/preview.png
