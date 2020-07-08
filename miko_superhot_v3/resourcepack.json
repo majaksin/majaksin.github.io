@@ -1,0 +1,26 @@
+{
+  "id": "miko_superhot_v3",
+  "version": "2.1.8",
+  "name": "한여름의 무녀 (R-18)",
+  "author": "소사희",
+  "description": "수영복을 모두 탈의합니다.\n투명도&아이콘 수정ver.\n\n리소스 : 커미션 맡김 (5000원)",
+  "preview": "preview2.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    "jp/extendRes/charactor/xiangyuanwu_haitanpaidui/bighead.png",
+    "jp/extendRes/charactor/xiangyuanwu_haitanpaidui/full.png",
+    "jp/extendRes/charactor/xiangyuanwu_haitanpaidui/half.png",
+    "jp/extendRes/charactor/xiangyuanwu_haitanpaidui/smallhead.png",
+    "jp/extendRes/charactor/xiangyuanwu_haitanpaidui/waitingroom.png",
+    "jp/extendRes/charactor/yiji_haitanpaidui/bighead.png",
+    "jp/extendRes/charactor/yiji_haitanpaidui/full.png",
+    "jp/extendRes/charactor/yiji_haitanpaidui/half.png",
+    "jp/extendRes/charactor/yiji_haitanpaidui/smallhead.png",
+    "jp/extendRes/charactor/yiji_haitanpaidui/waitingroom.png",
+    "scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg",
+    "myres2/tablecloth/tablecloth_default/preview.jpg",
+    "extendRes/items/tablecloth_navy.jpg"
+  ]
+}
