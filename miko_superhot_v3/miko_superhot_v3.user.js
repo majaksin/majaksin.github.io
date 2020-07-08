@@ -3,7 +3,7 @@
 // @namespace    miko_superhot_v3
 // @version      2.1.8
 // @description  이치히메와 마이가 수영복을 모두 탈의합니다.
-// @author       소사희+
+// @author       소사희+돌죽
 // @license      MIT
 // @icon         https://majaksin.github.io/miko_superhot_v3/preview.png
 // @supportURL   https://github.com/majaksin/miko_superhot_v3/issues
