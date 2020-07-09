@@ -2,7 +2,7 @@
 // @name         여신스킨+여신장판
 // @namespace    sarahot_sarapad
 // @version      1.0.0
-// @description  여신님+여신님 장판
+// @description  여신님+여신님 장판. 적용안되면 새로고침 한번하셈.
 // @author       shm
 // @license      MIT
 // @icon         https://majaksin.github.io/sarahot_sarapad/preview.png
