@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         한여름의 녀들 (R-18)
+// @name         한여름의 소녀들 (R-18)
 // @namespace    miko_superhot_v3
 // @version      2.1.8
 // @description  마이와 이치히메, 지니아가 수영복을 모두 탈의합니다.
