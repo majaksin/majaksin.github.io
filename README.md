@@ -26,4 +26,4 @@ http://majaksin.github.io/miko_superhot_v3/miko_superhot_v3.user.js
 
 태초의 JK(R-18)-진행중
 
-<img src="https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png" width="90%"></img>
+<img src="https://raw.githubusercontent.com/majaksin/majaksin.github.io/master/jk.png" width="90%"></img>
