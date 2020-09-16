@@ -24,6 +24,6 @@ http://majaksin.github.io/miko_superhot_v3/miko_superhot_v3.user.js
 
 ----------------------------------------------------------------
 
-태초의 JK(R-18)-진행중
+계약 JK(R-18) - 진행중
 
 <img src="https://raw.githubusercontent.com/majaksin/majaksin.github.io/master/jk.png" width="90%"></img>
