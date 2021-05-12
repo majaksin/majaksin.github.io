@@ -5,7 +5,7 @@
 // @description  마이와 이치히메, 지니아가 수영복을 모두 탈의합니다.
 // @author       ㅇㅇ
 // @license      MIT
-// @icon         https://github.com/majaksin/miko_hot/preview.png
+// @icon         https://majaksin.github.io/miko_hot/preview.png
 // @supportURL   https://github.com/majaksin/miko_hot/issues
 // @homepageURL  https://github.com/majaksin/miko_hot
 // @downloadURL  https://majaksin.github.io/miko_hot/miko_hot.user.js
