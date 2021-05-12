@@ -14,7 +14,7 @@
 // @grant        unsafeWindow
 // @grant        GM_getResourceText
 // @run-at       document-start
-// @resource resourcepack https://majaksin.github.io/miko_hot_v3/resourcepack.json
+// @resource resourcepack https://majaksin.github.io/miko_hot/resourcepack.json
 // ==/UserScript==
 
 (function () {
