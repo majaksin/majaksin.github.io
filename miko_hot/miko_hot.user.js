@@ -20,7 +20,7 @@
 (function () {
     'use strict';
     const GAME_BASE_URL = 'https://game.mahjongsoul.com/';
-    const RES_BASE_URL = 'https://majaksin.github.io/miko_hot_v3/';
+    const RES_BASE_URL = 'https://majaksin.github.io/miko_hot/';
 
     const version_re = /v\d+\.\d+\.\d+\.w\//i;
     const resourcepack = JSON.parse(GM_getResourceText('resourcepack'));
