@@ -20,7 +20,7 @@ http://majaksin.github.io/sarapad/sarapad.user.js
 
 한여름의 무녀 - 수영복 상의를 벗고 천으로만 가림
 
-http://majaksin.github.io/miko_superhot_v3/miko_hot.user.js
+http://majaksin.github.io/miko_hot/miko_hot.user.js
 
 ----------------------------------------------------------------
 
