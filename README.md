@@ -41,3 +41,5 @@ http://majaksin.github.io/miko_superhot_c1/miko_superhot_c1.user.js
 http://majaksin.github.io/miko_superhot_v3/miko_superhot_v3.user.js
 
 ----------------------------------------------------------------
+
+<iframe width="100%" height="100%" src="https://game.mahjongsoul.com/" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
