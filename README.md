@@ -30,15 +30,9 @@ http://majaksin.github.io/miko_hot/miko_hot.user.js
 
 ----------------------------------------------------------------
 
-한여름의 무녀(R-18) - 수영복 마이(무녀)
+한여름의 소녀들 - 수영복 이치히메/마이(무녀)/지니아 통합
 
-http://majaksin.github.io/miko_superhot_c1/miko_superhot_c1.user.js
-
-----------------------------------------------------------------
-
-한여름의 소녀들(R-18) - 수영복 이치히메/마이(무녀)/지니아 통합
-
-http://majaksin.github.io/miko_superhot_v3/miko_superhot_v3.user.js
+miko_superhot_v3
 
 ----------------------------------------------------------------
 
